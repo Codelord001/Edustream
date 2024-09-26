@@ -12,7 +12,7 @@ unidecode
 future
 joblib
 pytz
-./pke
+./Edustream_ai/pke
 python-dateutil
 flashtext
 pandas
