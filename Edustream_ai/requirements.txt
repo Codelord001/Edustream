@@ -18,6 +18,7 @@ flashtext
 pandas
 sentencepiece
 sense2vec
+spacy
 Flask
 Flask-RESTful
 Flask-CORS
