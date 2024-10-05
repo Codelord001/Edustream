@@ -2,6 +2,14 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from .Questgen import main
 
+
+import sys
+import os
+print("Python path:", sys.path)
+print("Current working directory:", os.getcwd())
+print("Contents of current directory:", os.listdir())
+print("Contents of Edustream_ai directory:", os.listdir('Edustream_ai'))
+
 app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}})
 
