@@ -29,4 +29,3 @@ Flask-JWT-Extended
 gunicorn
 pytorch_lightning
 gunicorn
-git+https://github.com/ramsrigouthamg/Questgen.ai#egg=Questgen
